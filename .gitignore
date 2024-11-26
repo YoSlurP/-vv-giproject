@@ -1,1 +1,9 @@
 UnrealEngine
+*.log
+*.temp
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+*.sln
